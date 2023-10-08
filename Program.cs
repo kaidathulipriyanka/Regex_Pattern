@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace RegexPatternMatch
 {
-    internal class Program
+    internal class Program  
     {
         static void Main(string[] args)
         {
